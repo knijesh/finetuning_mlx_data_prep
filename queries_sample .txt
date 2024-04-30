@@ -1,0 +1,70 @@
+What is IBM's point of view on Quantum Computing and how does it compare to their view on Tax Policy?
+How does IBM's investment in Quantum Computing compare to their investment in Workforce Policy?
+What are the data points related to IBM's Quantum Computing and how do they compare to the data points related to Sustainability?
+How does the topic of Sustainability appear in sections 132 and 136?
+What is the difference between Macroeconomic Insights in sections 133 and 137?
+How does the topic of AI and Emerging Tech differ between sections 134 and 138?
+What is the difference between Data Sovereignty as discussed in sections 135 and 139?
+How does the topic of Privacy and Cybersecurity differ between sections 135 and 139?
+How does the topic of Procurement differ between sections 135 and 139?
+How does the topic of Skills differ between sections 136 and 140?
+How does the topic of Trade and Market Access differ between sections 136 and 140?
+How does the topic of Sustainability differ between sections 136 and 140?
+How does the topic of Acquisitions in section 140 differ from other sections?
+How does demographics compare to technology as a macro issue?
+How does demographics influence the economic system's attributes and actor behavior?
+What is the similarity between the issue of employment and the issue of digital transformation in terms of their impact on the economy?
+What are the potential consequences of the inversion of demographic pyramids on inflation and government-funded entitlements?
+How does the issue of employment and the issue of digital transformation each affect labor?
+What is the likely outcome for private enterprises and governments that fail to effectively participate in the digital transformation?
+What are the potential consequences of geopolitical disruptions on government spending and economic growth?
+What is the difference between Digital Transformation and IBM's approach to Digital Transformation?
+What are the key components of IBM's approach to Digital Transformation?
+How does IBM's approach to Digital Transformation help businesses achieve their goals?
+What is the difference between AI and Generative AI?
+What are the potential challenges and concerns associated with the rise of Generative AI, as highlighted by the IBM Global AI Adoption Index 2023 and OpenAI's launch of ChatGPT?
+How does the time to value compare between traditional AI and foundation models?
+How does IBM approach AI development, deployment, and usage to ensure trust and address ethical concerns?
+What is IBM's approach to sustainability and how does it compare to Cisco's?
+What are IBM's specific sustainability goals and how are they working towards achieving them?
+How does IBM's sustainability reporting compare to Accenture's in terms of transparency and detail?
+How does IBM's sustainability commitment impact their business operations and offerings?
+What is the difference in GDP between Australia and the global median?
+What was the annual inflation in Australia in 2022 and the consumption for the same year?
+How does Australia's urbanization compare to the global median?
+How much did FDI inflows to Australia rise in 2022 and what is the IBM-addressable IT market opportunity growth in 2022?
+What is the difference in IT market size between Australia and the global median?
+What is the expected growth of the IT market in 2023 and 2024 in Australia?
+How does Australia's Human Development Index compare to 2021?
+What was IBM's rank in non-x86 Servers, External Storage, Total Servers, Software, TSS, Consulting, and Public Cloud in 2021 in Australia?
+What is the difference in Corruption Perceptions Index between Australia and the global median?
+When was IBM founded and how many years of operation has it completed as of 2023?
+How does Australia's Imports + Exports as a % GDP compare to the global median?
+What is the difference in Energy Consumption 2021 (TWh) between Australia and the global median?
+How does Australia's Energy Consumption Per Capita 2021 (GWh) compare to the global median?
+What is the difference in M1 Velocity (M1 5-Year CAGR) between Australia and the global median?
+How does Australia's Productivity 2019 compare to the global median?
+How does the Australian government's approach to AI regulation compare to its approach to electronic surveillance laws?
+What is the Australian government's National Quantum Strategy and how is IBM involved?
+How does the government's involvement in AI and quantum computing compare in terms of funding and support?
+How does the Hosting Certification Framework apply to IBM and its data center offerings?
+How has IBM contributed to the Australian government's AI regulation process?
+How does IBM participate in the process of drafting legislation for cybersecurity in Australia compared to privacy laws?
+What strategies has IBM implemented to address the critical skills shortage in the IT sector in Australia?
+How does IBM's experience with the cybersecurity regime in Australia compare to procurement policy?
+What is the difference between IBM's collaboration with the Government of India for bridging digital skill gaps and its research collaborations with Indian Institutes of Technology (IITs) and Indian Institute of Science (IISc)?
+What are the entities involved in IBM's initiatives in India and what are their specific roles and focuses?
+How does IBM's collaboration with the Government of India differ from its agreement with IIT Madras for Quantum research and skilling?
+What is the similarity between IBM Cybersecurity Hub and Global South Center of Excellence?
+What are the specific areas of focus for the Initiative on Critical and Emerging Technology (iCET) framework between India and the U.S.?
+How does IBM's engagement with the government differ between the Free Trade Agreements (FTAs) and the WTO customs moratorium?
+What are the benefits of the permanent extension of the WTO moratorium on Electronic Transmissions (ETs) according to IBM?
+How does the New Zealand government's procurement regime compare to IBM's expectations?
+What are the priority outcomes of the New Zealand government's procurement rules?
+How does the New Zealand government support local businesses compared to how it encourages competition?
+What are the challenges faced by New Zealand in terms of skills development and trade?
+What is the New Zealand government's stance on sustainability and emissions reduction?
+What is the difference between IBM Cloud and Amazon Web Services in terms of data security?
+What are the key features of IBM Cloud's 'pervasive encryption' and how does it differ from Amazon Web Services' encryption services?
+How does IBM Watson compare to Google Cloud's AI and machine learning services?
+What are the main AI and machine learning services offered by IBM Watson and Google Cloud, and how do they differ in terms of capabilities and focus?

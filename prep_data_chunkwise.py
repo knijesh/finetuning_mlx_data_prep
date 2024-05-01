@@ -128,7 +128,7 @@ class Datagenerator:
         texts = [each.replace("\n", " ") for each in texts]
         # print(texts)
         try:
-            for i, item in enumerate(texts[120:125]):
+            for i, item in enumerate(texts):
                 print(f" Item No :{i + 1}")
                 results = self.get_qa_pair(item)
                 final = (
